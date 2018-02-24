@@ -23,6 +23,10 @@ products:
       coffee beans grown with great care for the environment and local
       communities. Check our post or contact us directly for current
       availability.
+  - image: /img/about-jumbotron.jpg
+    text: asdf
+  - image: /img/about-reinvest-profits.jpg
+    text: werwerw
 values:
   - text: >-
       We sell green and roasted coffee beans that are sourced directly from
