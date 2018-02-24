@@ -6,7 +6,7 @@ description: >-
   Etiam id tellus diam.
 image: /img/about-direct-sourcing.jpg
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ullamcorper nisl ut ante elementum cursus. Mauris sodales leo eu fringilla aliquet. Mauris eu turpis at quam fringilla efficitur efficitur non odio. Integer a libero dui. Aliquam porttitor nec nulla ut blandit. Etiam id pulvinar ex, vel aliquet dui. Etiam id tellus diam.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ullamcorper nisl ut ante elementum cursus. Mauris sodales leo eu fringilla aliquet. Mauris eu turpis at quam fringilla efficitur efficitur non odio. Integer a libero dui. Aliquam porttitor nec nulla ut blandit. Etiam id pulvinar ex, vel aliquet dui. Etiam id tellus diam..
 
 Integer efficitur, mi quis fringilla mattis, ex augue gravida mauris, eu accumsan dui libero efficitur arcu. Curabitur hendrerit metus vitae risus pharetra pharetra. Sed sem ante, sollicitudin quis posuere ornare, fringilla id justo. Fusce eros massa, consequat non pharetra eget, ullamcorper non orci. Integer laoreet nisi vitae vestibulum sollicitudin. Pellentesque vitae consequat elit, ac pellentesque urna. Nunc pellentesque libero neque, non tempor metus lobortis vel.
 
